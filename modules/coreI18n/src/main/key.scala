@@ -1354,6 +1354,8 @@ object I18nKey:
     val `doubleBishopMateDescription`: I18nKey = "puzzleTheme:doubleBishopMateDescription"
     val `dovetailMate`: I18nKey = "puzzleTheme:dovetailMate"
     val `dovetailMateDescription`: I18nKey = "puzzleTheme:dovetailMateDescription"
+    val `epauletteMate`: I18nKey = "puzzleTheme:epauletteMate"
+    val `epauletteMateDescription`: I18nKey = "puzzleTheme:epauletteMateDescription"
     val `equality`: I18nKey = "puzzleTheme:equality"
     val `equalityDescription`: I18nKey = "puzzleTheme:equalityDescription"
     val `kingsideAttack`: I18nKey = "puzzleTheme:kingsideAttack"
